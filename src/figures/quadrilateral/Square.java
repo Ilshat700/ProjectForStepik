@@ -1,4 +1,4 @@
-package Figures.Quadrilateral;
+package figures.quadrilateral;
 // Квадрат
 public class Square extends Quadrilateral{
 }

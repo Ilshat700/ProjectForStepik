@@ -1,4 +1,4 @@
-package Figures.Triangle;
+package figures.triangle;
 // Треугольник
 public class Triangle {
 }

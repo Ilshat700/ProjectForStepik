@@ -1,4 +1,4 @@
-package Figures.Quadrilateral;
+package figures.quadrilateral;
 // Ромб
 public class Rhomb extends Quadrilateral{
 }

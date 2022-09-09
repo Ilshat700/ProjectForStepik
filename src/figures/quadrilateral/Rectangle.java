@@ -1,4 +1,4 @@
-package Figures.Quadrilateral;
+package figures.quadrilateral;
 // Прямоугольник
 public class Rectangle extends Quadrilateral{
 }

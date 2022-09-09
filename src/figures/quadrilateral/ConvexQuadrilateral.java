@@ -1,4 +1,4 @@
-package Figures.Quadrilateral;
+package figures.quadrilateral;
 // Выпуклый четырёхугольник
 public class ConvexQuadrilateral extends Quadrilateral{
 }
